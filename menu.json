@@ -1,0 +1,1315 @@
+[
+  {
+    "name": "🔺Chicken Burnt Garlic Fried Rice [500 ML]",
+    "price": 229,
+    "category": "5 Spice Special",
+    "description": "Fragrant rice tossed with juicy chicken and the smoky aroma of burnt garlic.",
+    "image": "chicken-burnt-garlic-fried-rice.jpg"
+  },
+  {
+    "name": "🔺Chicken Fried Rice [500 ML]",
+    "price": 229,
+    "category": "5 Spice Special",
+    "description": "A classic favourite — wok-fried rice with chicken and light seasoning.",
+    "image": "chicken-fried-rice.jpg"
+  },
+  {
+    "name": "🔺Chicken Hakka Noodles [500 ML]",
+    "price": 229,
+    "category": "5 Spice Special",
+    "description": "Soft noodles stir-fried with tender chicken and crisp vegetables in Hakka style.",
+    "image": "chicken-hakka-noodles.jpg"
+  },
+  {
+    "name": "🔺Chicken Hong Kong Fried Rice [500 ML]",
+    "price": 259,
+    "category": "5 Spice Special",
+    "description": "Golden rice stir-fried with chicken in a savoury Hong Kong-inspired sauce.",
+    "image": "chicken-hongkong-fried-rice.jpg"
+  },
+  {
+    "name": "🔺Chicken Korean Noodles [500 ML]",
+    "price": 259,
+    "category": "5 Spice Special",
+    "description": "Noodles tossed with chicken, sesame, and a hint of Korean spices.",
+    "image": "chicken-korean-noodles.jpg"
+  },
+  {
+    "name": "🔺Chicken Malaysian Noodles [500 ML]",
+    "price": 229,
+    "category": "5 Spice Special",
+    "description": "Wok-fried noodles layered with chicken, veggies, and Malaysian flavours.",
+    "image": "chicken-malaysian-noodles.jpg"
+  },
+  {
+    "name": "🔺Chicken Schezwan Fried Rice [500 ML]",
+    "price": 229,
+    "category": "5 Spice Special",
+    "description": "Spicy fried rice with chicken and the bold kick of Schezwan chilli paste.",
+    "image": "chicken-schezwan-fried-rice.jpg"
+  },
+  {
+    "name": "🔺Chicken Schezwan Noodles [500 ML]",
+    "price": 229,
+    "category": "5 Spice Special",
+    "description": "Fiery noodles wok-tossed with chicken, garlic, and hot Schezwan seasoning.",
+    "image": "chicken-schezwan-noodles.jpg"
+  },
+  {
+    "name": "🔺Chicken Singaporean Fried Rice [500 ML]",
+    "price": 259,
+    "category": "5 Spice Special",
+    "description": "Fragrant rice with chicken, chilli, and curry notes in Singaporean style.",
+    "image": "chicken-singapore-fried-rice.jpg"
+  },
+  {
+    "name": "🔺Chicken Singaporean Noodles [500 ML]",
+    "price": 259,
+    "category": "5 Spice Special",
+    "description": "Stir-fried noodles with chicken, spices, and a dash of Singaporean curry flavour.",
+    "image": "chicken-singapore-noodles.jpg"
+  },
+  {
+    "name": "🟢Egg Fried Rice [500 ML]",
+    "price": 229,
+    "category": "5 Spice Special",
+    "description": "Simple yet delicious — wok-tossed rice with fluffy scrambled eggs.",
+    "image": "egg-fried-rice.jpg"
+  },
+  {
+    "name": "🟢Veg Burnt Garlic Fried Rice [500 ML]",
+    "price": 229,
+    "category": "5 Spice Special",
+    "description": "Crisp vegetables and rice infused with smoky burnt garlic.",
+    "image": "veg-burnt-garlic-fried-rice.jpg"
+  },
+  {
+    "name": "🟢Veg Fried Rice [500 ML]",
+    "price": 209,
+    "category": "5 Spice Special",
+    "description": "Light, fluffy rice stir-fried with garden-fresh vegetables.",
+    "image": "veg-fried-rice.jpg"
+  },
+  {
+    "name": "🟢Veg Hakka Noodles [500 ML]",
+    "price": 209,
+    "category": "5 Spice Special",
+    "description": "Classic Hakka noodles tossed with colourful vegetables.",
+    "image": "veg-hakka-noodles.jpg"
+  },
+  {
+    "name": "🟢Veg Hong Kong Fried Rice [500 ML]",
+    "price": 259,
+    "category": "5 Spice Special",
+    "description": "Rice wok-fried with mixed vegetables and Hong Kong-style sauce.",
+    "image": "veg-hongkong-fried-rice.jpg"
+  },
+  {
+    "name": "🟢Veg Korean Noodles [500 ML]",
+    "price": 259,
+    "category": "5 Spice Special",
+    "description": "Noodles with crisp veggies, sesame, and mild Korean spice.",
+    "image": "veg-korean-noodles.jpg"
+  },
+  {
+    "name": "🟢Veg Malaysian Noodles [500 ML]",
+    "price": 259,
+    "category": "5 Spice Special",
+    "description": "Vegetable noodles enriched with bold Malaysian flavours.",
+    "image": "veg-malaysian-noodles.jpg"
+  },
+  {
+    "name": "🟢Veg Schezwan Fried Rice [500 ML]",
+    "price": 229,
+    "category": "5 Spice Special",
+    "description": "Spicy Schezwan-style rice with vegetables and garlic.",
+    "image": "veg-schezwan-fried-rice.jpg"
+  },
+  {
+    "name": "🟢Veg Schezwan Noodles [500 ML]",
+    "price": 229,
+    "category": "5 Spice Special",
+    "description": "Hot and fiery noodles tossed with vegetables and Schezwan chilli paste.",
+    "image": "veg-schezwan-noodles.jpg"
+  },
+  {
+    "name": "🟢Veg Singaporean Fried Rice [500 ML]",
+    "price": 325,
+    "category": "5 Spice Special",
+    "description": "Aromatic fried rice with vegetables and curry-spiced Singaporean flavour.",
+    "image": "veg-singapore-fried-rice.jpg"
+  },
+  {
+    "name": "🟢Veg Singaporean Noodles [500 ML]",
+    "price": 259,
+    "category": "5 Spice Special",
+    "description": "Noodles wok-fried with vegetables and a hint of Singaporean spices.",
+    "image": "veg-singapore-noodles.jpg"
+  },
+ {
+  "name": "🟢Veg 5 Spice Noodles",
+  "price": 410,
+  "category": "Veg Noodles",
+  "description": "Signature house-style noodles loaded with mixed vegetables and bold seasoning.",
+  "image": "veg-5spice-noodles.jpg"
+},
+{
+  "name": "🟢Veg American Chopsuey",
+  "price": 590,
+  "category": "Veg Noodles",
+  "description": "Crispy fried noodles topped with a rich vegetable gravy in sweet-sour style.",
+  "image": "veg-american-chopsuey.jpg"
+},
+{
+  "name": "🟢Veg Chilly Garlic Noodles",
+  "price": 410,
+  "category": "Veg Noodles",
+  "description": "Fiery noodles with the punch of chilli and roasted garlic.",
+  "image": "veg-chilly-garlic-noodles.jpg"
+},
+{
+  "name": "🟢Veg Hakka Noodles",
+  "price": 355,
+  "category": "Veg Noodles",
+  "description": "Classic wok-fried noodles with fresh garden vegetables.",
+  "image": "veg-hakka-noodles.jpg"
+},
+{
+  "name": "🟢Veg Hunan Pan Fried Noodles",
+  "price": 590,
+  "category": "Veg Noodles",
+  "description": "Golden pan-fried noodles topped with vegetables in a spicy Hunan sauce.",
+  "image": "veg-hunan-pan-fried-noodles.jpg"
+},
+{
+  "name": "🟢Veg Malaysian Noodles",
+  "price": 410,
+  "category": "Veg Noodles",
+  "description": "Noodles stir-fried with colourful veggies and fragrant Malaysian spices.",
+  "image": "veg-malaysian-noodles.jpg"
+},
+{
+  "name": "🟢Veg Schezwan Noodles",
+  "price": 380,
+  "category": "Veg Noodles",
+  "description": "Spicy and bold noodles tossed with Schezwan chilli paste.",
+  "image": "veg-schezwan-noodles.jpg"
+},
+{
+  "name": "🟢Veg Singaporean Noodles",
+  "price": 410,
+  "category": "Veg Noodles",
+  "description": "Noodles with crisp vegetables and curry-flavoured Singaporean seasoning.",
+  "image": "veg-singapore-noodles.jpg"
+},
+{
+  "name": "🟢Veg Teriyaki Noodles",
+  "price": 489,
+  "category": "Veg Noodles",
+  "description": "Glazed with sweet-savory teriyaki sauce and stir-fried vegetables.",
+  "image": "veg-teriyaki-noodles.jpg"
+},
+{
+  "name": "🟢Veg Thai Pot Noodles",
+  "price": 590,
+  "category": "Veg Noodles",
+  "description": "Rich noodles infused with Thai herbs and coconut notes.",
+  "image": "veg-thai-pot-noodles.jpg"
+},
+{
+  "name": "🟢Veg Chowmein",
+  "price": 590,
+  "category": "Veg Noodles",
+  "description": "Traditional chowmein noodles tossed with crunchy vegetables.",
+  "image": "veg-chowmein.jpg"
+},
+{
+  "name": "🟢Veg Pepper Noodles",
+  "price": 590,
+  "category": "Veg Noodles",
+  "description": "Stir-fried noodles seasoned with cracked black pepper and vegetables.",
+  "image": "veg-pepper-noodles.jpg"
+},
+{
+  "name": "🔺Chicken 5 Spice Noodles",
+  "price": 420,
+  "category": "Chicken Noodles",
+  "description": "Signature house noodles wok-tossed with tender chicken and bold spices.",
+  "image": "chicken-5spice-noodles.jpg"
+},
+{
+  "name": "🔺Chicken American Chopsuey",
+  "price": 550,
+  "category": "Chicken Noodles",
+  "description": "Crispy noodles topped with a rich chicken gravy in sweet-sour flavours.",
+  "image": "chicken-american-chopsuey.jpg"
+},
+{
+  "name": "🔺Chicken Chilly Garlic Noodles",
+  "price": 420,
+  "category": "Chicken Noodles",
+  "description": "Fiery noodles with juicy chicken, garlic, and a hint of red chilli.",
+  "image": "chicken-chilly-garlic-noodles.jpg"
+},
+{
+  "name": "🔺Chicken Hakka Noodles",
+  "price": 380,
+  "category": "Chicken Noodles",
+  "description": "A timeless classic — wok-fried noodles with chicken and crisp vegetables.",
+  "image": "chicken-hakka-noodles.jpg"
+},
+{
+  "name": "🔺Chicken Hunan Pan Fried Noodles",
+  "price": 550,
+  "category": "Chicken Noodles",
+  "description": "Golden fried noodles topped with chicken in spicy Hunan sauce.",
+  "image": "chicken-hunan-pan-fried-noodles.jpg"
+},
+{
+  "name": "🔺Chicken Korean Noodles",
+  "price": 420,
+  "category": "Chicken Noodles",
+  "description": "Noodles with chicken, sesame, and Korean-style spice notes.",
+  "image": "chicken-korean-noodles.jpg"
+},
+{
+  "name": "🔺Chicken Malaysian Noodles",
+  "price": 410,
+  "category": "Chicken Noodles",
+  "description": "Wok-tossed noodles with chicken and fragrant Malaysian seasoning.",
+  "image": "chicken-malaysian-noodles.jpg"
+},
+{
+  "name": "🔺Chicken Pepper Noodles",
+  "price": 550,
+  "category": "Chicken Noodles",
+  "description": "Stir-fried noodles with chicken, tossed in cracked black pepper.",
+  "image": "chicken-pepper-noodles.jpg"
+},
+{
+  "name": "🔺Chicken Schezwan Noodles",
+  "price": 395,
+  "category": "Chicken Noodles",
+  "description": "Bold and spicy noodles with chicken, garlic, and Schezwan chilli.",
+  "image": "chicken-schezwan-noodles.jpg"
+},
+{
+  "name": "🔺Chicken Singaporean Noodles",
+  "price": 420,
+  "category": "Chicken Noodles",
+  "description": "Chicken noodles with curry-spiced Singaporean flavour.",
+  "image": "chicken-singapore-noodles.jpg"
+},
+{
+  "name": "🔺Chicken Teriyaki Noodles",
+  "price": 550,
+  "category": "Chicken Noodles",
+  "description": "Juicy chicken glazed with sweet-savory teriyaki, served with noodles.",
+  "image": "chicken-teriyaki-noodles.jpg"
+},
+{
+  "name": "🔺Chicken Thai Pot Noodles",
+  "price": 550,
+  "category": "Chicken Noodles",
+  "description": "Exotic noodles with chicken, simmered in Thai herbs and coconut.",
+  "image": "chicken-thai-pot-noodles.jpg"
+},
+{
+  "name": "🔺Chicken Black Pepper Noodles",
+  "price": 550,
+  "category": "Chicken Noodles",
+  "description": "Noodles wok-fried with chicken and a sharp peppery kick.",
+  "image": "chicken-black-pepper-noodles.jpg"
+},
+{
+  "name": "🔺Chicken Pan Fried Noodles",
+  "price": 550,
+  "category": "Chicken Noodles",
+  "description": "Crispy pan-fried noodles topped with savoury chicken gravy.",
+  "image": "chicken-pan-fried-noodles.jpg"
+},
+{
+  "name": "🔺Chicken Chilly Dry",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Crispy chicken tossed in spicy chilli-garlic sauce with onions and capsicum.",
+  "image": "chicken-chilly-dry.jpg"
+},
+{
+  "name": "🔺Chicken Chilly Gravy",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Tender chicken pieces simmered in a rich chilli-garlic gravy.",
+  "image": "chicken-chilly-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Manchurian Dry",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Classic Indo-Chinese favourite with crisp fried chicken in tangy Manchurian sauce.",
+  "image": "chicken-manchurian-dry.jpg"
+},
+{
+  "name": "🔺Chicken Manchurian Gravy",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Soft chicken dumplings cooked in spicy Manchurian gravy.",
+  "image": "chicken-manchurian-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Crispy",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Crunchy fried chicken strips coated in sweet-spicy glaze.",
+  "image": "chicken-crispy.jpg"
+},
+{
+  "name": "🔺Chicken Lollypop (6 Pcs)",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Deep-fried chicken drumettes served with Schezwan dip.",
+  "image": "chicken-lollypop.jpg"
+},
+{
+  "name": "🔺Chicken 65",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "South-style fried chicken bites flavoured with curry leaves and spices.",
+  "image": "chicken-65.jpg"
+},
+{
+  "name": "🔺Chicken Hot Garlic Dry",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Crispy chicken tossed with hot garlic and chilli flakes.",
+  "image": "chicken-hot-garlic-dry.jpg"
+},
+{
+  "name": "🔺Chicken Hot Garlic Gravy",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Tender chicken cubes cooked in a fiery hot-garlic gravy.",
+  "image": "chicken-hot-garlic-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Schezwan Dry",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Wok-fried chicken tossed in spicy Schezwan sauce with peppers.",
+  "image": "chicken-schezwan-dry.jpg"
+},
+{
+  "name": "🔺Chicken Schezwan Gravy",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Chicken in a rich, garlicky Schezwan gravy.",
+  "image": "chicken-schezwan-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Dragon Dry",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Crispy dragon-style chicken tossed in a spicy-sweet glaze.",
+  "image": "chicken-dragon-dry.jpg"
+},
+{
+  "name": "🔺Chicken Dragon Gravy",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Fiery dragon-style chicken in spicy red gravy.",
+  "image": "chicken-dragon-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Hong Kong Dry",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Fried chicken coated with Hong Kong-style savoury glaze.",
+  "image": "chicken-hongkong-dry.jpg"
+},
+{
+  "name": "🔺Chicken Hong Kong Gravy",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Tender chicken cooked in a dark Hong Kong soy gravy.",
+  "image": "chicken-hongkong-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Pepper Dry",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Crisp chicken tossed with crushed black pepper and onion.",
+  "image": "chicken-pepper-dry.jpg"
+},
+{
+  "name": "🔺Chicken Pepper Gravy",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Spicy black-pepper gravy with chicken cubes and capsicum.",
+  "image": "chicken-pepper-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Shanghai Dry",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Chicken tossed in tangy Shanghai sauce with chillies.",
+  "image": "chicken-shanghai-dry.jpg"
+},
+{
+  "name": "🔺Chicken Shanghai Gravy",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Tender chicken in spicy-sweet Shanghai gravy.",
+  "image": "chicken-shanghai-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Lemon Chilli",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Crispy chicken coated with lemon juice and green chillies.",
+  "image": "chicken-lemon-chilli.jpg"
+},
+{
+  "name": "🔺Chicken BBQ Dry",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Smoky grilled chicken tossed in tangy barbeque glaze.",
+  "image": "chicken-bbq-dry.jpg"
+},
+{
+  "name": "🔺Chicken BBQ Gravy",
+  "price": 420,
+  "category": "Chicken Starters",
+  "description": "Chicken cooked in a rich barbeque-flavoured brown gravy.",
+  "image": "chicken-bbq-gravy.jpg"
+},
+{
+  "name": "🟢Veg Crispy",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Crispy fried vegetables tossed in a sweet and spicy sauce.",
+  "image": "veg-crispy.jpg"
+},
+{
+  "name": "🟢Veg Manchurian Dry",
+  "price": 355,
+  "category": "Veg Starters",
+  "description": "Fried vegetable dumplings tossed in a tangy Manchurian sauce.",
+  "image": "veg-manchurian-dry.jpg"
+},
+{
+  "name": "🟢Veg Manchurian Gravy",
+  "price": 355,
+  "category": "Veg Starters",
+  "description": "Soft vegetable dumplings cooked in classic Manchurian gravy.",
+  "image": "veg-manchurian-gravy.jpg"
+},
+{
+  "name": "🟢Veg Hot Garlic Dry",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Crispy veggies tossed with hot garlic and chilli flakes.",
+  "image": "veg-hot-garlic-dry.jpg"
+},
+{
+  "name": "🟢Veg Hot Garlic Gravy",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Mixed vegetables cooked in a rich hot garlic gravy.",
+  "image": "veg-hot-garlic-gravy.jpg"
+},
+{
+  "name": "🟢Veg Schezwan Dry",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Crispy vegetables stir-fried in fiery Schezwan sauce.",
+  "image": "veg-schezwan-dry.jpg"
+},
+{
+  "name": "🟢Veg Schezwan Gravy",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Mixed vegetables cooked in spicy Schezwan gravy.",
+  "image": "veg-schezwan-gravy.jpg"
+},
+{
+  "name": "🟢Veg Dragon Dry",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Crispy dragon-style vegetables tossed in spicy-sweet sauce.",
+  "image": "veg-dragon-dry.jpg"
+},
+{
+  "name": "🟢Veg Dragon Gravy",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Vegetables simmered in fiery dragon-style gravy.",
+  "image": "veg-dragon-gravy.jpg"
+},
+{
+  "name": "🟢Veg Chilly Dry",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Crisp-fried vegetables tossed in spicy chilli-garlic mix.",
+  "image": "veg-chilly-dry.jpg"
+},
+{
+  "name": "🟢Veg Chilly Gravy",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Vegetables cooked in a smooth chilli-garlic gravy.",
+  "image": "veg-chilly-gravy.jpg"
+},
+{
+  "name": "🟢Veg Shanghai Dry",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Crispy vegetables coated in Shanghai-style tangy sauce.",
+  "image": "veg-shanghai-dry.jpg"
+},
+{
+  "name": "🟢Veg Shanghai Gravy",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Mixed vegetables tossed in spicy-sweet Shanghai gravy.",
+  "image": "veg-shanghai-gravy.jpg"
+},
+{
+  "name": "🟢Veg Pepper Dry",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Stir-fried vegetables with cracked black pepper and onion.",
+  "image": "veg-pepper-dry.jpg"
+},
+{
+  "name": "🟢Veg Pepper Gravy",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Vegetables cooked in a thick pepper-infused gravy.",
+  "image": "veg-pepper-gravy.jpg"
+},
+{
+  "name": "🟢Veg Hong Kong Dry",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Crisp vegetables tossed in a savoury Hong Kong sauce.",
+  "image": "veg-hongkong-dry.jpg"
+},
+{
+  "name": "🟢Veg Hong Kong Gravy",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Mixed vegetables cooked in dark soy Hong Kong-style gravy.",
+  "image": "veg-hongkong-gravy.jpg"
+},
+{
+  "name": "🟢Veg Lemon Chilly",
+  "price": 380,
+  "category": "Veg Starters",
+  "description": "Crisp vegetables tossed in lemon juice and green chillies.",
+  "image": "veg-lemon-chilly.jpg"
+},
+{
+  "name": "🟢Paneer Chilly Dry",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Soft paneer cubes tossed with onion, capsicum, and spicy chilli-garlic sauce.",
+  "image": "paneer-chilly-dry.jpg"
+},
+{
+  "name": "🟢Paneer Chilly Gravy",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Paneer cubes simmered in a tangy chilli-garlic gravy.",
+  "image": "paneer-chilly-gravy.jpg"
+},
+{
+  "name": "🟢Paneer Crispy",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Lightly battered paneer fried crisp and glazed in spicy sauce.",
+  "image": "paneer-crispy.jpg"
+},
+{
+  "name": "🟢Paneer Manchurian Dry",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Golden fried paneer tossed in tangy Manchurian sauce.",
+  "image": "paneer-manchurian-dry.jpg"
+},
+{
+  "name": "🟢Paneer Manchurian Gravy",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Paneer pieces cooked in a rich Manchurian gravy.",
+  "image": "paneer-manchurian-gravy.jpg"
+},
+{
+  "name": "🟢Paneer Hot Garlic Dry",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Crispy paneer tossed with roasted garlic and red chilli flakes.",
+  "image": "paneer-hot-garlic-dry.jpg"
+},
+{
+  "name": "🟢Paneer Hot Garlic Gravy",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Paneer cubes in spicy garlic-flavoured brown gravy.",
+  "image": "paneer-hot-garlic-gravy.jpg"
+},
+{
+  "name": "🟢Paneer Schezwan Dry",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Paneer cubes tossed in fiery Schezwan sauce with peppers.",
+  "image": "paneer-schezwan-dry.jpg"
+},
+{
+  "name": "🟢Paneer Schezwan Gravy",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Soft paneer cooked in rich Schezwan gravy.",
+  "image": "paneer-schezwan-gravy.jpg"
+},
+{
+  "name": "🟢Paneer Dragon Dry",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Crispy paneer tossed in a hot, sweet-spicy dragon sauce.",
+  "image": "paneer-dragon-dry.jpg"
+},
+{
+  "name": "🟢Paneer Dragon Gravy",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Paneer cubes in a fiery dragon-style gravy.",
+  "image": "paneer-dragon-gravy.jpg"
+},
+{
+  "name": "🟢Paneer Shanghai Dry",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Crispy paneer coated in tangy Shanghai sauce.",
+  "image": "paneer-shanghai-dry.jpg"
+},
+{
+  "name": "🟢Paneer Shanghai Gravy",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Paneer cooked in spicy-sweet Shanghai gravy.",
+  "image": "paneer-shanghai-gravy.jpg"
+},
+{
+  "name": "🟢Paneer Pepper Dry",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Paneer tossed with onions and crushed black pepper.",
+  "image": "paneer-pepper-dry.jpg"
+},
+{
+  "name": "🟢Paneer Pepper Gravy",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Paneer cubes in a peppery brown gravy.",
+  "image": "paneer-pepper-gravy.jpg"
+},
+{
+  "name": "🟢Paneer Hong Kong Dry",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Fried paneer tossed in savoury Hong Kong-style soy glaze.",
+  "image": "paneer-hongkong-dry.jpg"
+},
+{
+  "name": "🟢Paneer Hong Kong Gravy",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Paneer cooked in dark soy Hong Kong gravy.",
+  "image": "paneer-hongkong-gravy.jpg"
+},
+{
+  "name": "🟢Paneer Lemon Chilly",
+  "price": 410,
+  "category": "Paneer Starters",
+  "description": "Crispy paneer coated with lemon juice and green chillies.",
+  "image": "paneer-lemon-chilly.jpg"
+},
+{
+  "name": "🔺Fish Chilly Dry",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Crispy fried fish cubes tossed in spicy chilli-garlic sauce with peppers.",
+  "image": "fish-chilly-dry.jpg"
+},
+{
+  "name": "🔺Fish Chilly Gravy",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Fried fish simmered in rich chilli-garlic brown gravy.",
+  "image": "fish-chilly-gravy.jpg"
+},
+{
+  "name": "🔺Fish Crispy",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Golden fried fish strips coated in sweet-spicy glaze.",
+  "image": "fish-crispy.jpg"
+},
+{
+  "name": "🔺Fish Hot Garlic Dry",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Crispy fish tossed with roasted garlic and crushed chilli flakes.",
+  "image": "fish-hot-garlic-dry.jpg"
+},
+{
+  "name": "🔺Fish Hot Garlic Gravy",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Fish cubes cooked in a fiery hot-garlic gravy with onions and capsicum.",
+  "image": "fish-hot-garlic-gravy.jpg"
+},
+{
+  "name": "🔺Fish Manchurian Dry",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Fried fish tossed in classic Manchurian sauce with spring onions.",
+  "image": "fish-manchurian-dry.jpg"
+},
+{
+  "name": "🔺Fish Manchurian Gravy",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Soft fish pieces simmered in tangy Manchurian gravy.",
+  "image": "fish-manchurian-gravy.jpg"
+},
+{
+  "name": "🔺Fish Schezwan Dry",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Wok-fried fish tossed in bold Schezwan chilli sauce.",
+  "image": "fish-schezwan-dry.jpg"
+},
+{
+  "name": "🔺Fish Schezwan Gravy",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Fish cubes cooked in spicy Schezwan garlic gravy.",
+  "image": "fish-schezwan-gravy.jpg"
+},
+{
+  "name": "🔺Fish Shanghai Dry",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Crispy fish coated in Shanghai-style sweet-spicy sauce.",
+  "image": "fish-shanghai-dry.jpg"
+},
+{
+  "name": "🔺Fish Shanghai Gravy",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Fish simmered in tangy Shanghai-style gravy.",
+  "image": "fish-shanghai-gravy.jpg"
+},
+{
+  "name": "🔺Fish Pepper Dry",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Crispy fish tossed in cracked black pepper and onions.",
+  "image": "fish-pepper-dry.jpg"
+},
+{
+  "name": "🔺Fish Pepper Gravy",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Fish cubes cooked in a spicy black-pepper gravy.",
+  "image": "fish-pepper-gravy.jpg"
+},
+{
+  "name": "🔺Fish Hong Kong Dry",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Fried fish tossed in savoury Hong Kong soy glaze.",
+  "image": "fish-hongkong-dry.jpg"
+},
+{
+  "name": "🔺Fish Hong Kong Gravy",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Fish cubes simmered in dark soy Hong Kong-style gravy.",
+  "image": "fish-hongkong-gravy.jpg"
+},
+{
+  "name": "🔺Fish Lemon Chilly",
+  "price": 510,
+  "category": "Fish Starters",
+  "description": "Crispy fish coated with lemon juice and green chillies.",
+  "image": "fish-lemon-chilly.jpg"
+},
+{
+  "name": "🔺Prawns Chilly Dry",
+  "price": 590,
+  "category": "Prawns Starters",
+  "description": "Crispy prawns tossed in spicy chilli-garlic sauce with peppers.",
+  "image": "prawns-chilly-dry.jpg"
+},
+{
+  "name": "🔺Prawns Chilly Gravy",
+  "price": 590,
+  "category": "Prawns Starters",
+  "description": "Prawns cooked in a tangy chilli-garlic brown gravy.",
+  "image": "prawns-chilly-gravy.jpg"
+},
+{
+  "name": "🔺Prawns Hot Garlic Dry",
+  "price": 590,
+  "category": "Prawns Starters",
+  "description": "Fried prawns tossed with roasted garlic and red chilli flakes.",
+  "image": "prawns-hot-garlic-dry.jpg"
+},
+{
+  "name": "🔺Prawns Hot Garlic Gravy",
+  "price": 590,
+  "category": "Prawns Starters",
+  "description": "Juicy prawns simmered in spicy hot-garlic sauce.",
+  "image": "prawns-hot-garlic-gravy.jpg"
+},
+{
+  "name": "🔺Prawns Schezwan Dry",
+  "price": 590,
+  "category": "Prawns Starters",
+  "description": "Crispy prawns wok-tossed in fiery Schezwan sauce.",
+  "image": "prawns-schezwan-dry.jpg"
+},
+{
+  "name": "🔺Prawns Schezwan Gravy",
+  "price": 590,
+  "category": "Prawns Starters",
+  "description": "Prawns cooked in a spicy Schezwan-style garlic gravy.",
+  "image": "prawns-schezwan-gravy.jpg"
+},
+{
+  "name": "🔺Prawns Lemon Chilly",
+  "price": 590,
+  "category": "Prawns Starters",
+  "description": "Crispy prawns tossed in lemon juice and green chillies.",
+  "image": "prawns-lemon-chilly.jpg"
+},
+{
+  "name": "🟢Veg Burnt Garlic Fried Rice",
+  "price": 380,
+  "category": "Veg Fried Rice",
+  "description": "Fragrant rice wok-tossed with crisp vegetables and roasted burnt garlic.",
+  "image": "veg-burnt-garlic-fried-rice.jpg"
+},
+{
+  "name": "🟢Veg Fried Rice",
+  "price": 355,
+  "category": "Veg Fried Rice",
+  "description": "Classic Chinese-style fried rice with garden-fresh vegetables.",
+  "image": "veg-fried-rice.jpg"
+},
+{
+  "name": "🟢Veg Hong Kong Fried Rice",
+  "price": 410,
+  "category": "Veg Fried Rice",
+  "description": "Rice tossed with vegetables in a rich Hong Kong-style dark soy sauce.",
+  "image": "veg-hongkong-fried-rice.jpg"
+},
+{
+  "name": "🟢Veg Malaysian Fried Rice",
+  "price": 410,
+  "category": "Veg Fried Rice",
+  "description": "Malaysian-inspired fried rice with bold spices and mixed vegetables.",
+  "image": "veg-malaysian-fried-rice.jpg"
+},
+{
+  "name": "🟢Veg Schezwan Fried Rice",
+  "price": 380,
+  "category": "Veg Fried Rice",
+  "description": "Spicy Schezwan fried rice loaded with vegetables and garlic.",
+  "image": "veg-schezwan-fried-rice.jpg"
+},
+{
+  "name": "🟢Veg Singapore Fried Rice",
+  "price": 410,
+  "category": "Veg Fried Rice",
+  "description": "Singapore-style fried rice with curry notes and colourful veggies.",
+  "image": "veg-singapore-fried-rice.jpg"
+},
+{
+  "name": "🟢Veg Thai Fried Rice",
+  "price": 489,
+  "category": "Veg Fried Rice",
+  "description": "Fragrant jasmine rice tossed with vegetables and Thai herbs.",
+  "image": "veg-thai-fried-rice.jpg"
+},
+{
+  "name": "🟢Veg Teriyaki Fried Rice",
+  "price": 489,
+  "category": "Veg Fried Rice",
+  "description": "Rice glazed with sweet-savory teriyaki sauce and vegetables.",
+  "image": "veg-teriyaki-fried-rice.jpg"
+},
+{
+  "name": "🟢Veg Pepper Fried Rice",
+  "price": 410,
+  "category": "Veg Fried Rice",
+  "description": "Stir-fried rice with cracked black pepper and crunchy veggies.",
+  "image": "veg-pepper-fried-rice.jpg"
+},
+{
+  "name": "🟢Veg 5 Spice Fried Rice",
+  "price": 410,
+  "category": "Veg Fried Rice",
+  "description": "Signature fried rice infused with five-spice aroma and vegetables.",
+  "image": "veg-5spice-fried-rice.jpg"
+},
+{
+  "name": "🔺Chicken Burnt Garlic Fried Rice",
+  "price": 395,
+  "category": "Chicken Fried Rice",
+  "description": "Fragrant rice tossed with juicy chicken and roasted burnt garlic.",
+  "image": "chicken-burnt-garlic-fried-rice.jpg"
+},
+{
+  "name": "🔺Chicken Fried Rice",
+  "price": 380,
+  "category": "Chicken Fried Rice",
+  "description": "Classic wok-fried rice with diced chicken and light soy seasoning.",
+  "image": "chicken-fried-rice.jpg"
+},
+{
+  "name": "🔺Chicken Hong Kong Fried Rice",
+  "price": 410,
+  "category": "Chicken Fried Rice",
+  "description": "Rice stir-fried with chicken and vegetables in Hong Kong dark soy sauce.",
+  "image": "chicken-hongkong-fried-rice.jpg"
+},
+{
+  "name": "🔺Chicken Malaysian Fried Rice",
+  "price": 410,
+  "category": "Chicken Fried Rice",
+  "description": "Malaysian-style spicy fried rice with chicken and bold aromatics.",
+  "image": "chicken-malaysian-fried-rice.jpg"
+},
+{
+  "name": "🔺Chicken Schezwan Fried Rice",
+  "price": 380,
+  "category": "Chicken Fried Rice",
+  "description": "Spicy Schezwan fried rice loaded with chicken and garlic chilli.",
+  "image": "chicken-schezwan-fried-rice.jpg"
+},
+{
+  "name": "🔺Chicken Singapore Fried Rice",
+  "price": 410,
+  "category": "Chicken Fried Rice",
+  "description": "Chicken fried rice with curry-spiced Singaporean flavour.",
+  "image": "chicken-singapore-fried-rice.jpg"
+},
+{
+  "name": "🔺Chicken Thai Fried Rice",
+  "price": 489,
+  "category": "Chicken Fried Rice",
+  "description": "Fragrant Thai fried rice with chicken, basil, and herbs.",
+  "image": "chicken-thai-fried-rice.jpg"
+},
+{
+  "name": "🔺Chicken Teriyaki Fried Rice",
+  "price": 489,
+  "category": "Chicken Fried Rice",
+  "description": "Rice tossed with teriyaki-glazed chicken and vegetables.",
+  "image": "chicken-teriyaki-fried-rice.jpg"
+},
+{
+  "name": "🔺Chicken Pepper Fried Rice",
+  "price": 410,
+  "category": "Chicken Fried Rice",
+  "description": "Stir-fried rice with chicken, onions, and cracked black pepper.",
+  "image": "chicken-pepper-fried-rice.jpg"
+},
+{
+  "name": "🔺Chicken 5 Spice Fried Rice",
+  "price": 410,
+  "category": "Chicken Fried Rice",
+  "description": "Signature five-spice fried rice with juicy chicken.",
+  "image": "chicken-5spice-fried-rice.jpg"
+},
+{
+  "name": "🟢Veg Manchurian Gravy",
+  "price": 380,
+  "category": "Veg Main Course Gravy",
+  "description": "Soft vegetable dumplings simmered in spicy Manchurian sauce.",
+  "image": "veg-manchurian-gravy.jpg"
+},
+{
+  "name": "🟢Veg Hot Garlic Gravy",
+  "price": 380,
+  "category": "Veg Main Course Gravy",
+  "description": "Mixed vegetables cooked in fiery hot-garlic gravy.",
+  "image": "veg-hot-garlic-gravy.jpg"
+},
+{
+  "name": "🟢Veg Schezwan Gravy",
+  "price": 380,
+  "category": "Veg Main Course Gravy",
+  "description": "Vegetables in bold, garlicky Schezwan gravy.",
+  "image": "veg-schezwan-gravy.jpg"
+},
+{
+  "name": "🟢Veg Dragon Gravy",
+  "price": 380,
+  "category": "Veg Main Course Gravy",
+  "description": "Spicy-sweet dragon-style gravy with assorted vegetables.",
+  "image": "veg-dragon-gravy.jpg"
+},
+{
+  "name": "🟢Veg Shanghai Gravy",
+  "price": 380,
+  "category": "Veg Main Course Gravy",
+  "description": "Vegetables tossed in tangy Shanghai-style brown sauce.",
+  "image": "veg-shanghai-gravy.jpg"
+},
+{
+  "name": "🟢Veg Pepper Gravy",
+  "price": 380,
+  "category": "Veg Main Course Gravy",
+  "description": "Vegetables cooked in thick black-pepper gravy.",
+  "image": "veg-pepper-gravy.jpg"
+},
+{
+  "name": "🟢Veg Hong Kong Gravy",
+  "price": 380,
+  "category": "Veg Main Course Gravy",
+  "description": "Mixed vegetables in dark soy Hong Kong-style gravy.",
+  "image": "veg-hongkong-gravy.jpg"
+},
+{
+  "name": "🟢Veg Lemon Chilly Gravy",
+  "price": 380,
+  "category": "Veg Main Course Gravy",
+  "description": "Zesty lemon-flavoured gravy with vegetables and green chillies.",
+  "image": "veg-lemon-chilly-gravy.jpg"
+},
+{
+  "name": "🟢Veg BBQ Gravy",
+  "price": 380,
+  "category": "Veg Main Course Gravy",
+  "description": "Vegetables cooked in smoky barbeque-style gravy.",
+  "image": "veg-bbq-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Manchurian Gravy",
+  "price": 410,
+  "category": "Chicken Main Course Gravy",
+  "description": "Tender chicken dumplings in spicy Manchurian gravy.",
+  "image": "chicken-manchurian-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Hot Garlic Gravy",
+  "price": 410,
+  "category": "Chicken Main Course Gravy",
+  "description": "Chicken cubes cooked in hot-garlic brown gravy.",
+  "image": "chicken-hot-garlic-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Schezwan Gravy",
+  "price": 410,
+  "category": "Chicken Main Course Gravy",
+  "description": "Spicy Schezwan chicken gravy with garlic and peppers.",
+  "image": "chicken-schezwan-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Dragon Gravy",
+  "price": 410,
+  "category": "Chicken Main Course Gravy",
+  "description": "Fiery dragon-style chicken gravy with sweet-spicy glaze.",
+  "image": "chicken-dragon-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Shanghai Gravy",
+  "price": 410,
+  "category": "Chicken Main Course Gravy",
+  "description": "Chicken cooked in tangy Shanghai-style sauce.",
+  "image": "chicken-shanghai-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Pepper Gravy",
+  "price": 410,
+  "category": "Chicken Main Course Gravy",
+  "description": "Chicken cubes simmered in black-pepper sauce.",
+  "image": "chicken-pepper-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Hong Kong Gravy",
+  "price": 410,
+  "category": "Chicken Main Course Gravy",
+  "description": "Chicken in dark soy Hong Kong-style gravy.",
+  "image": "chicken-hongkong-gravy.jpg"
+},
+{
+  "name": "🔺Chicken Lemon Chilly Gravy",
+  "price": 410,
+  "category": "Chicken Main Course Gravy",
+  "description": "Zesty lemon-chilli gravy with juicy chicken.",
+  "image": "chicken-lemon-chilly-gravy.jpg"
+},
+{
+  "name": "🔺Chicken BBQ Gravy",
+  "price": 410,
+  "category": "Chicken Main Course Gravy",
+  "description": "Smoky barbeque-flavoured gravy with chicken cubes.",
+  "image": "chicken-bbq-gravy.jpg"
+},
+{
+  "name": "🔺Fish Manchurian Gravy",
+  "price": 510,
+  "category": "Fish Main Course Gravy",
+  "description": "Soft fish pieces cooked in spicy Manchurian gravy.",
+  "image": "fish-manchurian-gravy.jpg"
+},
+{
+  "name": "🔺Fish Hot Garlic Gravy",
+  "price": 510,
+  "category": "Fish Main Course Gravy",
+  "description": "Fish cubes simmered in hot-garlic sauce with peppers.",
+  "image": "fish-hot-garlic-gravy.jpg"
+},
+{
+  "name": "🔺Fish Schezwan Gravy",
+  "price": 510,
+  "category": "Fish Main Course Gravy",
+  "description": "Fish in fiery Schezwan chilli-garlic gravy.",
+  "image": "fish-schezwan-gravy.jpg"
+},
+{
+  "name": "🔺Fish Pepper Gravy",
+  "price": 510,
+  "category": "Fish Main Course Gravy",
+  "description": "Fish cubes cooked in spicy black-pepper gravy.",
+  "image": "fish-pepper-gravy.jpg"
+},
+{
+  "name": "🔺Fish Hong Kong Gravy",
+  "price": 510,
+  "category": "Fish Main Course Gravy",
+  "description": "Fish simmered in savoury Hong Kong-style dark soy gravy.",
+  "image": "fish-hongkong-gravy.jpg"
+},
+{
+  "name": "🔺Prawns Manchurian Gravy",
+  "price": 590,
+  "category": "Prawns Main Course Gravy",
+  "description": "Juicy prawns cooked in tangy Manchurian gravy.",
+  "image": "prawns-manchurian-gravy.jpg"
+},
+{
+  "name": "🔺Prawns Hot Garlic Gravy",
+  "price": 590,
+  "category": "Prawns Main Course Gravy",
+  "description": "Prawns tossed in fiery hot-garlic brown sauce.",
+  "image": "prawns-hot-garlic-gravy.jpg"
+},
+{
+  "name": "🔺Prawns Schezwan Gravy",
+  "price": 590,
+  "category": "Prawns Main Course Gravy",
+  "description": "Spicy Schezwan prawns in rich garlic-chilli gravy.",
+  "image": "prawns-schezwan-gravy.jpg"
+},
+{
+  "name": "🔺Prawns Pepper Gravy",
+  "price": 590,
+  "category": "Prawns Main Course Gravy",
+  "description": "Prawns cooked in aromatic black-pepper gravy.",
+  "image": "prawns-pepper-gravy.jpg"
+},
+{
+  "name": "🔺Prawns Hong Kong Gravy",
+  "price": 590,
+  "category": "Prawns Main Course Gravy",
+  "description": "Prawns simmered in savoury Hong Kong-style soy gravy.",
+  "image": "prawns-hongkong-gravy.jpg"
+},
+{
+  "name": "🟢Veg Manchow Soup",
+  "price": 170,
+  "category": "Veg Soups",
+  "description": "Spicy, tangy soup topped with crispy noodles.",
+  "image": "veg-manchow-soup.jpg"
+},
+{
+  "name": "🟢Veg Hot & Sour Soup",
+  "price": 170,
+  "category": "Veg Soups",
+  "description": "Bold peppery soup with vegetables in a tangy broth.",
+  "image": "veg-hot-and-sour-soup.jpg"
+},
+{
+  "name": "🟢Veg Sweet Corn Soup",
+  "price": 170,
+  "category": "Veg Soups",
+  "description": "Creamy sweet-corn soup with diced vegetables.",
+  "image": "veg-sweet-corn-soup.jpg"
+},
+{
+  "name": "🟢Veg Tom Yum Soup",
+  "price": 170,
+  "category": "Veg Soups",
+  "description": "Thai-style clear soup with chilli-lime flavour.",
+  "image": "veg-tom-yum-soup.jpg"
+},
+{
+  "name": "🟢Veg Talumein Soup",
+  "price": 170,
+  "category": "Veg Soups",
+  "description": "Thick noodle soup with vegetables and soy aroma.",
+  "image": "veg-talumein-soup.jpg"
+},
+{
+  "name": "🔺Chicken Manchow Soup",
+  "price": 180,
+  "category": "Chicken Soups",
+  "description": "Spicy chicken soup topped with crispy noodles.",
+  "image": "chicken-manchow-soup.jpg"
+},
+{
+  "name": "🔺Chicken Hot & Sour Soup",
+  "price": 180,
+  "category": "Chicken Soups",
+  "description": "Bold, peppery chicken soup with tangy notes.",
+  "image": "chicken-hot-and-sour-soup.jpg"
+},
+{
+  "name": "🔺Chicken Sweet Corn Soup",
+  "price": 180,
+  "category": "Chicken Soups",
+  "description": "Silky chicken and sweet-corn soup with herbs.",
+  "image": "chicken-sweet-corn-soup.jpg"
+},
+{
+  "name": "🔺Chicken Tom Yum Soup",
+  "price": 180,
+  "category": "Chicken Soups",
+  "description": "Thai-style zesty chicken soup with lemongrass and lime.",
+  "image": "chicken-tom-yum-soup.jpg"
+},
+{
+  "name": "🔺Chicken Talumein Soup",
+  "price": 180,
+  "category": "Chicken Soups",
+  "description": "Thick chicken noodle soup with soy and garlic flavour.",
+  "image": "chicken-talumein-soup.jpg"
+}
+]
+
+
+
+
+
+
+
+
+
+
+

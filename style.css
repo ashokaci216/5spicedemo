@@ -1,0 +1,472 @@
+/* =========================================================
+   5Spice Mira Road – Full Layout CSS
+   Base: China Bite Layout with Orange Theme
+   Author: Ashok Rasali
+   Last Updated: 2025-11-09
+   ========================================================= */
+
+/* === GOOGLE FONTS === */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@1,700&display=swap');
+
+/* === ROOT VARIABLES === */
+:root {
+  --orange: #F15A24;
+  --orange2: #FF6E3E;
+}
+
+/* =========================================================
+   BASE ELEMENTS
+   ========================================================= */
+body {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  background: #fff;
+  color: #333;
+}
+
+/* Hidden toggle class (used in JS view switching) */
+.hidden { display: none !important; }
+
+/* =========================================================
+   SPLASH SCREEN
+   ========================================================= */
+.splash {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #fff;
+  overflow: hidden;
+  background: url("./images/outlet-bg.jpeg") center/cover no-repeat;
+  font-family: 'Poppins', sans-serif;
+}
+.splash::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: 0;
+}
+.splash-bg { position: absolute; inset: 0; z-index: -1; }
+
+/* Floating outlet names */
+.splash-outlet-random {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+}
+.splash-outlet-random span {
+  position: absolute;
+  font-size: 1.1rem;
+  font-weight: 600;
+  font-style: italic;
+  color: #FFD580;
+  opacity: 0;
+  text-shadow: 0 0 10px rgba(255, 213, 128, 0.4);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  animation: floatSoft 8s ease-in-out infinite alternate,
+             fadeInSeq 4s ease forwards;
+}
+@keyframes floatSoft { from { transform: translateY(0); } to { transform: translateY(-10px); } }
+@keyframes fadeInSeq { 0% { opacity: 0; } 100% { opacity: 0.3; } }
+.splash-outlet-random span:nth-child(n) { animation-delay: calc(var(--i, 1) * 0.2s); }
+
+.splash-inner { position: relative; z-index: 3; text-align: center; }
+.splash-logo { width: 100px; margin: 0 auto 10px; animation: fadeIn 1s ease-out; }
+.splash-tagline {
+  font-size: 1.1rem;
+  font-style: italic;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #FFD580;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
+  animation: fadeIn 1.3s ease-out;
+}
+@keyframes fadeIn { from { opacity: 0; transform: scale(0.95); } to { opacity: 1; transform: scale(1); } }
+
+/* =========================================================
+   HEADER
+   ========================================================= */
+.header {
+  background-color: var(--orange);
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  gap: 10px;
+}
+
+/* Logo */
+.header-logo {
+  height: 48px;
+  width: auto;
+  border-radius: 6px;
+  object-fit: contain;
+}
+
+/* Cart Icon */
+.cart-icon-desktop {
+  font-size: 2.4rem;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.cart-icon-desktop span {
+  font-size: 1.2rem;
+  margin-left: 6px;
+}
+
+/* Timing Badge */
+.hours-badge {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 4px 10px;
+  font-size: 14px;
+  line-height: 1;
+  color: #fff;
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.25);
+  border-radius: 999px;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+/* Center group for badge + outlet */
+.header-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  text-align: center;
+}
+
+/* Outlet name beside badge */
+.outlet-inline {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #fff;
+  white-space: nowrap;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .outlet-inline { display: none; }
+}
+@media (max-width: 420px) {
+  .hours-badge { font-size: 11px; padding: 3px 8px; }
+}
+@media (max-width: 360px) {
+  .hours-badge { display: none; }
+}
+
+@media (max-width: 600px) {
+  .hours-badge {
+    display: block;
+    position: relative;
+    line-height: 1.3;
+    text-align: center;
+  }
+  .hours-badge::after {
+    content: "📍 Mira Road";
+    display: block;
+    margin-top: 4px;
+    font-size: 0.8rem;
+    color: #fff;
+    font-weight: 600;
+    opacity: 0.9;
+  }
+}
+
+/* =========================================================
+   HERO SECTION
+   ========================================================= */
+.hero {
+  width: 100%;
+  height: 240px;
+  background: #f9f9f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  max-height: 240px;
+}
+
+/* =========================================================
+   CATEGORY GRID
+   ========================================================= */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.8rem;
+  background-color: #fff3e0;
+  padding: 0.8rem;
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.category-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+.category-icon {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 0.4rem;
+}
+.category-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #333;
+  line-height: 1.1;
+  word-break: break-word;
+}
+@media (min-width:768px){ .category-grid{grid-template-columns:repeat(4,1fr);} }
+@media (min-width:1024px){ .category-grid{grid-template-columns:repeat(5,1fr);} }
+@media (min-width:1440px){ .category-grid{grid-template-columns:repeat(6,1fr);} }
+
+/* =========================================================
+   MENU SECTION
+   ========================================================= */
+.menu-section { padding: 1rem; }
+.menu-header { display:flex; align-items:center; gap:1rem; margin-bottom:1rem; }
+.back-btn {
+  font-size:1rem;
+  font-weight:bold;
+  color: var(--orange);
+  background:none;
+  border:none;
+  cursor:pointer;
+}
+#menu-heading { font-size:1.2rem; font-weight:700; }
+.product-list { display:flex; flex-direction:column; gap:1rem; }
+.product-card {
+  display:flex; justify-content:space-between;
+  background:#fff; border-radius:8px; padding:1rem;
+  box-shadow:0 2px 4px rgba(0,0,0,0.05);
+}
+.product-card > div:last-child {
+  display:flex; flex-direction:column; align-items:center;
+  justify-content:space-between; gap:.75rem;
+}
+.product-card img {
+  width:84px; height:84px; border-radius:10px; object-fit:cover; cursor:pointer;
+}
+.product-details { flex:1; padding-right:1rem; }
+.product-details h3 { font-size:1rem; margin:0 0 .3rem; }
+.product-details p { font-size:.85rem; margin:.2rem 0; color:#555; }
+.quantity-buttons { display:flex; gap:.5rem; margin-top:.5rem; align-items:center; }
+.quantity-buttons button {
+  padding:.25rem .6rem;
+  font-size:1rem;
+  font-weight:bold;
+  background: var(--orange);
+  color:#fff;
+  border:none;
+  border-radius:4px;
+  cursor:pointer;
+}
+
+/* =========================================================
+   CART PANEL
+   ========================================================= */
+.cart-panel {
+  position:fixed;
+  top:0; right:-100%;
+  width:320px; height:100%;
+  background:#fff;
+  box-shadow:-2px 0 10px rgba(0,0,0,0.15);
+  z-index:1050;
+  padding:1rem;
+  transition:right .3s ease-in-out;
+  overflow-y:auto;
+}
+.cart-panel.active { right:0; }
+.cart-header { display:flex; justify-content:space-between; align-items:center; font-weight:bold; margin-bottom:1rem; }
+.cart-body { max-height:300px; overflow-y:auto; }
+.cart-item { display:flex; justify-content:space-between; align-items:center; margin-bottom:.75rem; font-size:.92rem; }
+.cart-item-text { flex:1; padding-right:8px; word-break:break-word; }
+.remove-btn {
+  background:transparent; border:none; font-size:1.1rem; color:var(--orange); cursor:pointer;
+}
+.cart-total {
+  font-weight:bold; font-size:1.1rem;
+  border-top:1px solid #ddd; padding-top:.75rem;
+  margin-top:1rem; margin-bottom:.25rem; color:#333;
+}
+.total-items { font-size:.95rem; color:#666; margin-bottom:.75rem; }
+#cooking-instructions {
+  width:100%; padding:.5rem; border:1px solid #ccc; border-radius:6px;
+  font-size:.9rem; resize:vertical; margin-top:.75rem;
+}
+.clear-cart-btn {
+  margin-top:.5rem;
+  background:#ff5252;
+  color:#fff;
+  border:none;
+  padding:.5rem;
+  border-radius:6px;
+  cursor:pointer;
+  width:100%;
+}
+.order-fields input {
+  width:100%;
+  padding:.5rem;
+  margin-top:.5rem;
+  border:1px solid #ccc;
+  border-radius:6px;
+}
+.whatsapp-btn {
+  display:block;
+  margin-top:1rem;
+  background:#25d366;
+  color:white;
+  padding:.75rem;
+  border-radius:8px;
+  text-align:center;
+  font-weight:bold;
+  text-decoration:none;
+}
+
+/* =========================================================
+   MODAL PREVIEW
+   ========================================================= */
+.modal {
+  position:fixed; inset:0; background:rgba(0,0,0,.6);
+  display:flex; justify-content:center; align-items:center; z-index:1001;
+}
+.modal.hidden { display:none; }
+.modal-content {
+  background:#fff; border-radius:10px; padding:1rem;
+  width:90vw; max-width:360px; max-height:90vh;
+  overflow-y:auto; text-align:center;
+  display:flex; flex-direction:column; align-items:center;
+}
+.modal-content img {
+  width:100%; height:auto; max-height:300px;
+  object-fit:cover; border-radius:8px; margin-bottom:.75rem;
+}
+.modal-content h3 { margin:.5rem 0 .3rem; }
+.modal-content p { font-size:.9rem; color:#444; }
+#modal-add-to-cart {
+  background:var(--orange);
+  color:white;
+  padding:.5rem 1rem;
+  border:none;
+  border-radius:6px;
+  font-weight:bold;
+  margin-top:.75rem;
+}
+
+/* =========================================================
+   FLOATING HOME BUTTON
+   ========================================================= */
+.floating-home-btn {
+  position:fixed;
+  bottom:60px;
+  right:16px;
+  background:#fff;
+  color:#00a884;
+  border:2px solid #00a884;
+  padding:.5rem 1rem;
+  font-size:.9rem;
+  font-weight:bold;
+  border-radius:30px;
+  box-shadow:0 4px 12px rgba(0,0,0,0.1);
+  z-index:999;
+  cursor:pointer;
+  transition:all .3s ease;
+}
+.floating-home-btn:hover { background:#00a884; color:white; }
+
+/* =========================================================
+   VIEW CART BAR (Mobile)
+   ========================================================= */
+.view-cart-bar {
+  display:none;
+  position:fixed;
+  bottom:0;
+  width:100%;
+  background:#00a884;
+  color:white;
+  justify-content:space-between;
+  align-items:center;
+  padding:.6rem .75rem;
+  z-index:998;
+  font-weight:bold;
+  font-size:.85rem;
+}
+.view-cart-bar.active { display:flex; }
+#cart-bar-text { flex:1; overflow:hidden; text-overflow:ellipsis; }
+#view-cart-btn {
+  width:105px;
+  background:white;
+  color:#00a884;
+  font-weight:bold;
+  padding:.45rem .4rem;
+  border:none;
+  border-radius:6px;
+  font-size:.8rem;
+  text-align:center;
+  white-space:nowrap;
+  flex-shrink:0;
+  margin-right:20px;
+}
+@media (max-width:400px){
+  #view-cart-btn{font-size:.75rem; padding:.35rem .6rem;}
+}
+
+/* =========================================================
+   FOOTER
+   ========================================================= */
+.footer {
+  text-align:center;
+  padding:1rem;
+  font-size:.85rem;
+  background:#f9f9f9;
+  color:#444;
+  font-weight:bold;
+}
+
+/* === Category Label Fix (Strong Override) === */
+.category-grid .category-card .category-label {
+  white-space: normal !important;
+  word-break: break-word !important;
+  overflow-wrap: break-word !important;
+  text-align: center !important;
+  width: 100% !important;
+  line-height: 1.2;
+  font-size: 0.8rem;
+}
+
+/* === Small Screen Grid Adjustment (Better Spacing) === */
+@media (max-width: 400px) {
+  .category-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 0.9rem !important;
+  }
+}
+

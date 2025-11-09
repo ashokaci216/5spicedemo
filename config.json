@@ -1,0 +1,26 @@
+{
+  "brandName": "5Spice Mira Road",
+  "tagline": "Where Every Toss Sparks a Taste.",
+  "splashEnabled": true,
+  "splashDurationMs": 2000,
+  "gstEnabled": false,
+  "defaultDiscount": 0,
+  "whatsappNumber": "9867378209",
+  "currency": "₹",
+  "outlets": [
+    "Colaba",
+    "Mira Road",
+    "Worli",
+    "Bandra",
+    "Borivali",
+    "Saki Naka",
+    "Powai",
+    "Chembur",
+    "Oshiwara",
+    "Belapur",
+    "Thane",
+    "Mulund",
+    "Wadala",
+    "Malad"
+  ]
+}

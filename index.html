@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>5Spice Mira Road</title>
+
+  <!-- Favicon (same structure as China Bite, renamed to 5spice) -->
+  <link rel="icon" type="image/x-icon" href="images/5spice-favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/5spice-favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/5spice-favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="48x48" href="images/5spice-favicon-48x48.png">
+  <link rel="icon" type="image/png" sizes="180x180" href="images/5spice-favicon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="images/5spice-favicon-192x192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="images/5spice-favicon-512x512.png">
+
+  <!-- Manifest -->
+  <link rel="manifest" href="manifest.json?v=2">
+
+  <!-- Social Meta -->
+  <meta property="og:title" content="5Spice Mira Road – Authentic Chinese Flavours">
+  <meta property="og:description" content="Order handcrafted Chinese dishes in Mira Road. Fresh local ingredients. WhatsApp ordering available.">
+  <meta property="og:image" content="https://5spicemr.in/images/5spice-logo.png">
+  <meta property="og:url" content="https://5spicemr.in">
+
+  <link rel="stylesheet" href="style.css?v=2025-11-09">
+  <script defer src="app.js"></script>
+  <meta name="theme-color" content="#F15A24">
+  <link rel="apple-touch-icon" href="images/5spice-favicon-192x192.png">
+</head>
+<body>
+
+ <!-- ===== Splash Screen ===== -->
+<div id="splash" class="splash" aria-live="polite">
+  <div class="splash-inner">
+    <img src="images/5spice-logo.png" alt="5Spice Logo" class="splash-logo" />
+    <p id="splash-tagline" class="splash-tagline">Where Every Toss Sparks a Taste.</p>
+  </div>
+
+  <!-- Cinematic Floating Outlet Names -->
+  <div class="splash-outlet-random">
+    <span style="top:8%; left:10%;">Colaba</span>
+    <span style="top:10%; right:12%;">Mira Road</span>
+    <span style="top:20%; left:60%;">Worli</span>
+    <span style="top:25%; left:25%;">Bandra</span>
+    <span style="top:35%; right:15%;">Borivali</span>
+    <span style="top:45%; left:8%;">Saki Naka</span>
+    <span style="top:50%; right:14%;">Powai</span>
+    <span style="top:44%; right:10%;">Chembur</span>
+    <span style="top:60%; right:25%;">Oshiwara</span>
+    <span style="bottom:28%; left:15%;">Belapur</span>
+    <span style="bottom:25%; right:18%;">Thane</span>
+    <span style="bottom:18%; left:40%;">Mulund</span>
+    <span style="bottom:10%; right:25%;">Wadala</span>
+    <span style="bottom:8%; left:30%;">Malad</span>
+  </div>
+
+  <div class="splash-bg"></div>
+</div>
+
+  <!-- ===== Header ===== -->
+<header class="header">
+  <div class="container">
+    <img src="images/5spice-logo.png" alt="5Spice Mira Road" class="header-logo">
+
+    <div class="header-center">
+      <span class="hours-badge">🕒 <strong>Open: 12 PM – 3:30 PM • 7 PM – 12 AM</strong></span>
+      <span class="outlet-inline">📍 Mira Road</span>
+    </div>
+
+    <div class="cart-icon-desktop" id="desktop-cart-btn">
+      🛒 <span id="cart-count-desktop">0</span>
+    </div>
+  </div>
+</header>
+
+  <!-- ===== Hero ===== -->
+  <section class="hero">
+    <img src="images/5spice-hero.jpg" alt="5Spice Hero Banner">
+  </section>
+
+  <!-- ===== Category Grid ===== -->
+  <section id="category-section" class="category-grid"></section>
+
+  <!-- ===== Menu Section ===== -->
+  <section id="menu-section" class="menu-section hidden">
+    <div class="menu-header">
+      <button id="back-to-categories" class="back-btn">← Back</button>
+      <h2 id="menu-heading">Category</h2>
+    </div>
+    <div id="product-list" class="product-list"></div>
+  </section>
+
+  <!-- ===== Floating Cart Bar ===== -->
+  <div id="view-cart-bar" class="view-cart-bar">
+    <span id="cart-bar-text">0 items added</span>
+    <button id="view-cart-btn">VIEW CART</button>
+  </div>
+
+  <!-- ===== Slide Cart ===== -->
+  <aside id="cart-panel" class="cart-panel">
+    <div class="cart-header">
+      <h3>Your Cart</h3><button id="close-cart">❌</button>
+    </div>
+    <div id="cart-items" class="cart-body"></div>
+    <!-- === Bill Summary === -->
+    <div class="cart-summary">
+      <p>Total: ₹<span id="cart-subtotal">0</span></p>
+      <p>Discount: ₹<span id="cart-discount">0</span></p>
+      <p>+ GST (5%): ₹<span id="cart-gst">0</span></p>
+      <h3>Grand Total: ₹<span id="cart-total">0</span></h3>
+      <p>Total Items: <span id="cart-count-text">0</span></p>
+   </div>
+
+    <textarea id="cooking-instructions" rows="2" placeholder="Any instructions? (e.g. Less spicy, No mushroom)"></textarea>
+    <button id="clear-cart" class="clear-cart-btn">Clear Cart</button>
+
+    <div class="order-fields">
+      <input type="text" id="name-and-phone-number" placeholder="Name and Phone Number">
+      <input type="text" id="table-number-or-address" placeholder="Table Number or Address">
+    </div>
+    <a id="whatsapp-order" target="_blank" class="whatsapp-btn">Place Order via WhatsApp</a>
+  </aside>
+
+  <!-- ===== Modal ===== -->
+  <div id="preview-modal" class="modal hidden">
+    <div class="modal-content">
+      <button id="close-modal" class="close-modal">❌</button>
+      <img id="modal-image" src="" alt="Preview">
+      <h3 id="modal-name"></h3>
+      <p id="modal-description"></p>
+      <p id="modal-price"></p>
+      <button id="modal-add-to-cart">➕ Add to Cart</button>
+      <a href="#menu-section" id="back-to-menu" class="back-link">← Back to Menu</a>
+    </div>
+  </div>
+
+  <button id="home-floating-btn" class="floating-home-btn hidden">🏠 Home</button>
+
+  <footer class="footer">
+    <p>📍 Shop 12, New Comet Tower, Mira Road</p>
+    <p>📱 WhatsApp Orders: <a href="https://wa.me/919867378209" target="_blank">+91 98673 78209</a></p>
+  </footer>
+</body>
+</html>
