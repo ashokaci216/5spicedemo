@@ -380,27 +380,22 @@ body {
   font-weight:bold;
   margin-top:.75rem;
 }
-
-/* =========================================================
-   FLOATING HOME BUTTON
-   ========================================================= */
 .floating-home-btn {
-  position:fixed;
-  bottom:60px;
-  right:16px;
-  background:#fff;
-  color:#00a884;
-  border:2px solid #00a884;
-  padding:.5rem 1rem;
-  font-size:.9rem;
-  font-weight:bold;
-  border-radius:30px;
-  box-shadow:0 4px 12px rgba(0,0,0,0.1);
-  z-index:999;
-  cursor:pointer;
-  transition:all .3s ease;
+  position: fixed;
+  bottom: calc(70px + env(safe-area-inset-bottom));
+  right: 16px;
+  background: #fff;
+  color: #00a884;
+  border: 2px solid #00a884;
+  padding: .5rem 1rem;
+  font-size: .9rem;
+  font-weight: bold;
+  border-radius: 30px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  z-index: 10000;
+  cursor: pointer;
+  transition: all .3s ease;
 }
-.floating-home-btn:hover { background:#00a884; color:white; }
 
 /* =========================================================
    VIEW CART BAR (Sticky + Safe Area Fixed)
@@ -416,7 +411,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 0.6rem 0.9rem;
-  z-index: 9999;
+  z-index: 901;
   font-weight: bold;
   font-size: 0.85rem;
   box-shadow: 0 -3px 8px rgba(0,0,0,0.25);
@@ -479,4 +474,26 @@ body {
     gap: 0.9rem !important;
   }
 }
+
+/* =========================================================
+   ITEM ADDED POP-UP BAR
+   ========================================================= */
+#item-added-popup {
+  position: fixed;
+  bottom: calc(60px + env(safe-area-inset-bottom));
+  left: 0;
+  width: 100%;
+  background: #008d56;
+  color: #fff;
+  text-align: center;
+  font-weight: 600;
+  padding: 10px 0;
+  z-index: 900;
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.2);
+  display: none;
+}
+#item-added-popup.active { display: block; }
+
+
 
